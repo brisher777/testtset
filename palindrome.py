@@ -6,10 +6,6 @@
 ###						###
 ###################################################
 
-import array
-
-first_array = []
-
 #prompt the user to enter first half of a guessed password that needs to be mirrored
 first_half = raw_input("Enter what you believe to be the first half of the palindrome'd password: ")
 
