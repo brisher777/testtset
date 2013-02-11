@@ -2,4 +2,5 @@
 # git commit -m '<message for commit>'
 # git push origin
 
-# git filter-branch --tree-filter 'rm -f <filename>' HEAD
+# git add . -A
+# git commit -m 'removed some files'
